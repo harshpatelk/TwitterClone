@@ -2,7 +2,7 @@
 
 **TwitterClone** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-##Part 2
+## Part 2
 
 Time spent: **5** hours spent in total
 
@@ -42,7 +42,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
-##Part 1
+## Part 1
 
 Time spent: **6** hours spent in total
 
