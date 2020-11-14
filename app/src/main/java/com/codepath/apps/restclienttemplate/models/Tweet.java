@@ -26,6 +26,7 @@ public class Tweet {
         List<Tweet> tweets = new ArrayList<>();
         for(int i = 0; i < jsonArray.length(); i++){
             tweets.add(fromJson(jsonArray.getJSONObject(i)));
+
         }
         return tweets;
     }
